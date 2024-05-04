@@ -1,0 +1,7 @@
+streamlit
+github
+bcrypt
+jwt
+datetime
+streamlit_cookies_controller
+pandas
